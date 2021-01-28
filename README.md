@@ -17,4 +17,4 @@ For convenience, set your Windows OS to open any .ahk files using AutoHotkeyU32.
 
 
 # Download
-https://github.com/PeekingBoo/Window-Manager/blob/main/WindowManager.ahk
+Right-click the following and Save Link as - https://raw.githubusercontent.com/PeekingBoo/Window-Manager/main/WindowManager.ahk
