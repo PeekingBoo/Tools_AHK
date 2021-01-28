@@ -1,4 +1,5 @@
 ; TO JUMP STRAIGHT TO THE SECTION OF CODE FOR MANAGING YOUR WINDOWS, LOOK FOR THIS: VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+; SCRIPT IS ACTIVATED BY USING SCROLL LOCK, SEE THE END OF THIS FILE
 
 ; Give your script a custom icon, just create one and reference its filepath below, then remove the semi-colon on the left beside 'Menu'
 ; Menu, Tray, Icon, C:\scriptIcon.ico
