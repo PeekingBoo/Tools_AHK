@@ -31,7 +31,7 @@ Loop {
 		
 		; NOTE: Windows OS can sometimes be finicky about what makes up a Window's name - eg Notepad will show "Untitled - Notepad" but only "Untitled" is required
 		; Make a new line for each Window you wish to affect
-		; Parameters are: [WindowName, X, Y, Width, Height]
+		; Parameters are: [WindowName, X, Y, Width, Height] - Mark a field with "" if it is to remain unchanged
 		setWindowParameters("Untitled", 500, 500, 640, 480)
 		setWindowParameters("Untitled2", 0, 20, "", "")
 		
