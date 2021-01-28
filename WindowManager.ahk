@@ -1,4 +1,4 @@
-; TO JUMP STRAIGHT TO THE SECTION OF CODE FOR MANAGING YOUR WINDOWS, LOOK FOR THIS: VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+; YOU ONLY NEED TO CHANGE THE CODE BETWEEN THE ARROWS FOR BASIC FUNCTIONALITY, LOOK FOR THIS: VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
 ; SCRIPT IS ACTIVATED BY USING SCROLL LOCK, SEE THE END OF THIS FILE
 
 ; Give your script a custom icon, just create one and reference its filepath below, then remove the semi-colon on the left beside 'Menu'
@@ -28,6 +28,13 @@ Loop {
 	if(scriptActive) {
 		; If it is active, call a function to set the parameters of the specified window
 		
+		
+		
+		
+		
+		
+		
+		
 		; VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
 		
 		; NOTE: Windows OS can sometimes be finicky about what makes up a Window's name - eg Notepad will show "Untitled - Notepad" but only "Untitled" is required
@@ -37,6 +44,13 @@ Loop {
 		setWindowParameters("Untitled2", 0, 20, "", "")
 		
 		; ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+		
+		
+		
+		
+		
+		
+		
 	}
 }
 
