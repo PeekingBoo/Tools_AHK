@@ -13,3 +13,8 @@ Windows 7, 8, 10
 AutoHotkeyU32.exe available in this zip from the AHK website: https://www.autohotkey.com/download/ahk.zip
 
 For convenience, set your Windows OS to open any .ahk files using AutoHotkeyU32.exe
+
+
+
+# To Download
+Right-click WindowManager.ahk above and Save Link As...
