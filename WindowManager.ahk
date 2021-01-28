@@ -33,7 +33,7 @@ Loop {
 		; Make a new line for each Window you wish to affect
 		; Parameters are: [WindowName, X, Y, Width, Height]
 		setWindowParameters("Untitled", 500, 500, 640, 480)
-		setWindowParameters("Untitled2", 500, 500, 640, 480)
+		setWindowParameters("Untitled2", 0, 20, "", "")
 		
 		; ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 	}
