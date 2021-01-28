@@ -4,15 +4,15 @@
 
 
 ; Parameters
-#NoEnv								; Prevents variables from being looked up as Environmental Variables
+#NoEnv				; Prevents variables from being looked up as Environmental Variables
 #InstallKeybdHook
 #UseHook On
-#SingleInstance, Force				; Prevents additional instances of this script from opening
-setbatchlines, -1					; Sets script to run at max speed
+#SingleInstance, Force		; Prevents additional instances of this script from opening
+setbatchlines, -1		; Sets script to run at max speed
 
 ; Variables
 scriptActive := false		; Indicates whether the script should run or not - this is set false so that it needs to be manually activated
-waitTime := 50				; Time value used to pause the script, the value represents the number of milliseconds
+waitTime := 50			; Time value used to pause the script, the value represents the number of milliseconds
 
 
 
