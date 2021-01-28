@@ -1,9 +1,9 @@
 # Window-Manager
-A tool made in AutoHotKey enabling the user to automatically size and position their windows with the toggle of a button.
+A tool made in AutoHotKey enabling users to automatically size / position their windows with the toggle of a button.
 
-This is a learning tool and not a solution.
+This is a learning tool and not a solution, any features/expansions are yours to implement.
 
-This will not be expanded upon here, that's up to you! :D
+You will need to edit the .ahk file in a text editor of your choice to affect the windows you want.
 
 
 
