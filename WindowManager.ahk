@@ -1,3 +1,5 @@
+; TO JUMP STRAIGHT TO THE SECTION OF CODE FOR MANAGING YOUR WINDOWS, LOOK FOR THIS: VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+
 ; Give your script a custom icon, just create one and reference its filepath below, then remove the semi-colon on the left beside 'Menu'
 ; Menu, Tray, Icon, C:\scriptIcon.ico
 
@@ -24,8 +26,16 @@ Loop {
 	; Perform a check to see if the script is active
 	if(scriptActive) {
 		; If it is active, call a function to set the parameters of the specified window
-		; NOTE: Windows can sometimes be finicky about what makes up a Window's name - eg Notepad will show "Untitled - Notepad" but only "Untitled" is required
+		
+		; VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+		
+		; NOTE: Windows OS can sometimes be finicky about what makes up a Window's name - eg Notepad will show "Untitled - Notepad" but only "Untitled" is required
+		; Make a new line for each Window you wish to affect
+		; Parameters are: [WindowName, X, Y, Width, Height]
 		setWindowParameters("Untitled", 500, 500, 640, 480)
+		setWindowParameters("Untitled2", 500, 500, 640, 480)
+		
+		; ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 	}
 }
 
