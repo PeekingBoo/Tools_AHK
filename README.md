@@ -3,7 +3,7 @@ A tool made in AutoHotKey enabling users to automatically size / position their 
 
 This is a learning tool and not a solution, any features/expansions are yours to implement.
 
-You will need to edit the .ahk file in a text editor of your choice to affect the windows you want.
+You will need to edit the .ahk file in a text editor of your choice to reference and affect the windows you want.
 
 
 
